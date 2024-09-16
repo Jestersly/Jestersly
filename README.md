@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Data-Stream-Visualizations](https://github.com/Jestersly/Binance-Coinbase-Trade-Streams)
 
-- 🌱 I’m currently learning **C++ Programming, Cyber Secruity, Computer Networking, DEX**
+- 🎓 I’m currently learning **C++ Programming, Cyber Secruity, Computer Networking, DEX**
 
 - 🤝 I’m looking for help with **Backtesting,API-Connection and Market-Data-Visualization Tools**
 
