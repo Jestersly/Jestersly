@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jestersly@proton.me**
 
-- ⚡ Fun fact **I am not a professional. This is more like a hobby i try to intensify**
+- ⚡ Fun fact **I am not a professional. This is more like a hobby**
 
 
 <div align="center">
