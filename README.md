@@ -2,9 +2,9 @@
 <h3 align="center">Just a simple self made developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jestersly&label=Profile%20views&color=0e75b6&style=flat" alt="jestersly" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jestersly&label=Profile%20views&color=0e75b6&style=flat" alt="jestersly" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jestersly" alt="jestersly" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jestersly" alt="jestersly" /></a> </p>
 
 
 <img align="right" height="150" src="https://github.com/Jestersly/Jestersly/blob/main/giphy%20(2).gif" width="150" /> 
@@ -13,7 +13,7 @@
 
 - 🎓 I’m currently learning **C++ Programming, Cyber Secruity, Computer Networking, DEX**
 
-- 🤝 I’m looking for help with **Backtesting,API-Connection and Market-Data-Visualization Tools**
+- 🤝 I’m looking for help with **Backtesting, API-Connection and Market-Data-Visualization Tools**
 
 - 💬 Ask me about **provided Codes, intersting topics around trading-bots, strategies and things that are related to this**
 
